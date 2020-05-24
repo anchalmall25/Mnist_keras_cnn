@@ -1,5 +1,6 @@
 FROM tensorflow/tensorflow:latest
 RUN pip install keras
+RUN pip install python3
 RUN pip install sklearn
 RUN pip install numpy
 
