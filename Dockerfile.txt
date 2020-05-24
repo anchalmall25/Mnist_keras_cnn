@@ -1,0 +1,6 @@
+FROM tensorflow/tensorflow:latest
+RUN pip install keras
+RUN pip install sklearn
+RUN pip install numpy
+
+COPY Mnist_keras_cnn.py
