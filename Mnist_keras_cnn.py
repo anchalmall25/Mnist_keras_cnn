@@ -119,6 +119,8 @@ def summarize_performance(scores):
 	# print summary
 	print('Accuracy: mean=%.3f std=%.3f, n=%d' % (mean(scores)*100, std(scores)*100, len(scores)))
 	# box and whisker plots of results
+	with open('accuracy.txt' ,'w') as acc_file:
+		acc_file.write(str(mean(scores)*100))
 	pyplot.boxplot(scores)
 	pyplot.show()
 
