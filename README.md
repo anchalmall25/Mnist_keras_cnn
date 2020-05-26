@@ -25,7 +25,7 @@ For doing this task first their should be jenkins installed in linux operating s
 ## JOB1
 JOB1 is for only pulling github repository we provide url of git repository to jenkins(in job1).Give name according to you my job1 name is "git_upload".
 
-![job1 1](https://user-images.githubusercontent.com/62477381/82884631-9776a280-9f61-11ea-8bed-4708c6adc5f6.PNG)
+![job1 1](https://user-images.githubusercontent.com/62477381/82894560-63ef4480-9f70-11ea-9033-e852f72bdaa5.PNG)
 
 Set "GitHub hook trigger for GITScm polling" 
 
