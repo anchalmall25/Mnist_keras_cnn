@@ -6,7 +6,6 @@
 
 from numpy import mean
 from numpy import std
-from matplotlib import pyplot
 from sklearn.model_selection import KFold
 from keras.datasets import mnist
 from keras.utils import to_categorical
@@ -121,9 +120,7 @@ def summarize_performance(scores):
 	# box and whisker plots of results
 	with open('accuracy.txt' ,'w') as acc_file:
 		acc_file.write(str(mean(scores)*100))
-	pyplot.boxplot(scores)
-	pyplot.show()
-
+	
 
 # In[10]:
 
