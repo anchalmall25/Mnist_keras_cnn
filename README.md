@@ -33,7 +33,7 @@ Set "GitHub hook trigger for GITScm polling"
 
 For copy file use copy command
 
-![job1 3](https://user-images.githubusercontent.com/62477381/82884864-f9370c80-9f61-11ea-8f94-007185dcef96.PNG)
+![job1 3](https://user-images.githubusercontent.com/62477381/82894727-a9137680-9f70-11ea-8bee-9ddc1df09c3b.PNG)
 
 ## JOB2
 In job2 I have done the image building part after building image we have to run the container.This job will run after job1 when it will successfull.
