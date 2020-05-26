@@ -52,7 +52,7 @@ SMTP server name :
 User name: (provide your email-id)
 Password: "give your password"
 Use SSL : Checked
-SMTP Port: 895
+SMTP Port: 465
 ~~~
 
 ![job2 3](https://user-images.githubusercontent.com/62477381/82888951-a52f2680-9f67-11ea-8475-a2922cf64f9a.PNG)
