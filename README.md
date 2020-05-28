@@ -70,25 +70,10 @@ It will check the accuracy if accuracy is less then 95% then it wil again run th
 
 For this i have created an other code in another folder.If accuracy is less this file will run and increase the accuracy.
 ~~~
-from keras.models import Sequential
-from keras.layers import Conv2D
-from keras.layers import MaxPooling2D
-from keras.layers import Dense
-from keras.layers import Flatten
-from keras.optimizers import SGD
-
-def define_model():
-	model = Sequential()
-	model.add(Conv2D(32, (3, 3), activation='relu', kernel_initializer='he_uniform', input_shape=(28, 28, 1)))
-	model.add(MaxPooling2D((2, 2)))
-	model.add(Flatten())
-	model.add(Dense(100, activation='relu', kernel_initializer='he_uniform'))
-	model.add(Dense(10, activation='softmax'))
-	# compile model
-	opt = SGD(lr=0.01, momentum=0.9)
-	model.compile(optimizer=opt, loss='categorical_crossentropy', metrics=['accuracy'])
-	return model
-  ~~~
+model.add(Convolution2D(filters=32,kernel_size=(2,2),activation='relu'))
+model.add(MaxPooling2D(pool_size=(2,2)))
+model.add(Convolution2D(filters=32,kernel_size=(2,2),activation='relu'))
+~~~
 
 ![job4](https://user-images.githubusercontent.com/62477381/82891699-cf82e300-9f6b-11ea-80f4-9e630d2da340.PNG)
 
