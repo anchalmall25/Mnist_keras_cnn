@@ -46,13 +46,13 @@ Now write some code for running the container
 
 ![job2 2](https://user-images.githubusercontent.com/62477381/82887614-e6bed200-9f65-11ea-97a9-3647ea4658ab.PNG)
 
-Now for email configuration go to Manage pluggins install Email-ext plugins and to configure it. Go to System configuration and the go to Extended Email notification and set SMTQ sever
+Now for email configuration go to Manage pluggins install Email-ext plugins and to configure it. Go to System configuration and the go to Extended Email notification and set SMTP sever
 ~~~
 SMTP server name : 
-User name: (provide your email-id)
+User name: (provide  email-id)
 Password: "give your password"
 Use SSL : Checked
-SMTP Port: 465
+SMTP Port: 456
 ~~~
 
 ![job2 3](https://user-images.githubusercontent.com/62477381/82888951-a52f2680-9f67-11ea-8475-a2922cf64f9a.PNG)
