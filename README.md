@@ -31,6 +31,8 @@ Set "GitHub hook trigger for GITScm polling"
 
 ![job 1 2](https://user-images.githubusercontent.com/62477381/82884731-c0973300-9f61-11ea-8b40-e3c5aea00d5d.PNG)
 
+![ml 2](https://user-images.githubusercontent.com/62477381/86905136-45fc2e80-c12f-11ea-8dd6-416010b072bd.PNG)
+
 For copy file use copy command
 
 ![job1 3](https://user-images.githubusercontent.com/62477381/82894727-a9137680-9f70-11ea-8bee-9ddc1df09c3b.PNG)
