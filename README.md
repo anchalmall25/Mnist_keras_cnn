@@ -46,6 +46,15 @@ Now write some code for running the container
 
 ![job2 2](https://user-images.githubusercontent.com/62477381/82887614-e6bed200-9f65-11ea-97a9-3647ea4658ab.PNG)
 
+
+![ml 2](https://user-images.githubusercontent.com/62477381/86905136-45fc2e80-c12f-11ea-8dd6-416010b072bd.PNG)
+
+## JOB3 
+This is for executing the python file which is copied in that
+This will run after when job two is successfully build
+
+![job3](https://user-images.githubusercontent.com/62477381/82889577-939a4e80-9f68-11ea-8758-086a8bccfe7a.PNG)
+
 Now for email configuration go to Manage pluggins install Email-ext plugins and to configure it. Go to System configuration and the go to Extended Email notification and set SMTP sever
 ~~~
 SMTP server name : 
@@ -57,13 +66,6 @@ SMTP Port: 456
 
 ![job2 3](https://user-images.githubusercontent.com/62477381/82888951-a52f2680-9f67-11ea-8475-a2922cf64f9a.PNG)
 
-![ml 2](https://user-images.githubusercontent.com/62477381/86905136-45fc2e80-c12f-11ea-8dd6-416010b072bd.PNG)
-
-## JOB3 
-This is for executing the python file which is copied in that
-This will run after when job two is successfully build
-
-![job3](https://user-images.githubusercontent.com/62477381/82889577-939a4e80-9f68-11ea-8758-086a8bccfe7a.PNG)
 
 ![ss1](https://user-images.githubusercontent.com/62477381/86905034-249b4280-c12f-11ea-8728-5c6223c68d08.PNG)
 
