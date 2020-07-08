@@ -82,8 +82,6 @@ model.add(Convolution2D(filters=32,kernel_size=(2,2),activation='relu'))
 
 ![job4](https://user-images.githubusercontent.com/62477381/82891699-cf82e300-9f6b-11ea-80f4-9e630d2da340.PNG)
 
-![ss2](https://user-images.githubusercontent.com/62477381/86905087-32e95e80-c12f-11ea-9f32-365cd571f127.PNG)
-
 # VISUALISATION
 For visualisation I have use two things one is "Build Pipeline View" and second is "Build Monitor View"
 
