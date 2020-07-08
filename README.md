@@ -63,6 +63,8 @@ This will run after when job two is successfully build
 
 ![job3](https://user-images.githubusercontent.com/62477381/82889577-939a4e80-9f68-11ea-8758-086a8bccfe7a.PNG)
 
+![ss1](https://user-images.githubusercontent.com/62477381/86905034-249b4280-c12f-11ea-8728-5c6223c68d08.PNG)
+
 I have stored the accuracy in folder for retreiving it.
 
 ## JOB4
@@ -76,6 +78,8 @@ model.add(Convolution2D(filters=32,kernel_size=(2,2),activation='relu'))
 ~~~
 
 ![job4](https://user-images.githubusercontent.com/62477381/82891699-cf82e300-9f6b-11ea-80f4-9e630d2da340.PNG)
+
+![ss2](https://user-images.githubusercontent.com/62477381/86905087-32e95e80-c12f-11ea-9f32-365cd571f127.PNG)
 
 # VISUALISATION
 For visualisation I have use two things one is "Build Pipeline View" and second is "Build Monitor View"
