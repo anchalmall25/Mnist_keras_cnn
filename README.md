@@ -44,7 +44,7 @@ For this go to BUILD TRIGGERS and click on "Build after other projects are built
 
 Now write some code for running the container
 
-![ml 2](https://user-images.githubusercontent.com/62477381/86905136-45fc2e80-c12f-11ea-8dd6-416010b072bd.PNG)
+![job2 2](https://user-images.githubusercontent.com/62477381/86906741-9c6a6c80-c131-11ea-936a-4d3bb7e5f821.PNG)
 
 ![ml10](https://user-images.githubusercontent.com/62477381/86906404-1ea66100-c131-11ea-97f7-d8a670a0f553.PNG)
 
