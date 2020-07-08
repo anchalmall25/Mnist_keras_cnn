@@ -44,10 +44,9 @@ For this go to BUILD TRIGGERS and click on "Build after other projects are built
 
 Now write some code for running the container
 
-![ml10](https://user-images.githubusercontent.com/62477381/86906404-1ea66100-c131-11ea-97f7-d8a670a0f553.PNG)
-
-
 ![ml 2](https://user-images.githubusercontent.com/62477381/86905136-45fc2e80-c12f-11ea-8dd6-416010b072bd.PNG)
+
+![ml10](https://user-images.githubusercontent.com/62477381/86906404-1ea66100-c131-11ea-97f7-d8a670a0f553.PNG)
 
 ## JOB3 
 This is for executing the python file which is copied in that
